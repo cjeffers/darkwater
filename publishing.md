@@ -1,9 +1,9 @@
 Converted to GitBook by Cameron Jeffers, 2018
 
 Versions:
-* [PDF]()
-* [EPUB]()
-* [MOBI]()
+* [PDF](https://raw.githubusercontent.com/cjeffers/darkwater/master/_book/ebooks/darkwater.pdf)
+* [EPUB](https://raw.githubusercontent.com/cjeffers/darkwater/master/_book/ebooks/darkwater.epub)
+* [MOBI](https://raw.githubusercontent.com/cjeffers/darkwater/master/_book/ebooks/darkwater.mobi)
 * [Web]()
 
 ```
